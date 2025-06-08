@@ -116,11 +116,12 @@ Har bir yangi ishga tushurishda avvalgi faylga yangi qator **qo‘shiladi**, o�
 
 ---
 
-## ✍️ Muallif
+## ✍️ Mualliflar
 
 👨‍💻 Ahmedov Tohirbek  
 👨‍💻 Azizov Diyorbek  
 👨‍💻 Qudratov Asadbek
 
 Ushbu loyiha amaliyot va shifrlash algoritmlari bilan tanishish uchun tayyorlangan
+
 🛠 Yordam yoki takliflar uchun bemalol bog‘laning!
