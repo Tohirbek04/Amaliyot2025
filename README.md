@@ -11,7 +11,6 @@ Ushbu loyiha Oqimli  shefirlash algortimlari (RC4 va A5/1) algoritmlaridan foyda
 ✅ Matnni RC4 yoki A5/1 algoritmi orqali shifrlash  
 ✅ Shifrlangan matnni deshifrlash (asl holatga qaytarish)  
 ✅ Har bir natijani `.xlsx` faylga avtomatik saqlash  
-✅ Avvalgi natijalarni o‘chirmasdan faylga yangi qator sifatida qo‘shish  
 
 ---
 
@@ -119,6 +118,9 @@ Har bir yangi ishga tushurishda avvalgi faylga yangi qator **qo‘shiladi**, o�
 
 ## ✍️ Muallif
 
-Ushbu loyiha amaliyot va shifrlash algoritmlari bilan tanishish uchun tayyorlangan.
+👨‍💻 Ahmedov Tohirbek  
+👨‍💻 Azizov Diyorbek  
+👨‍💻 Qudratov Asadbek
 
+Ushbu loyiha amaliyot va shifrlash algoritmlari bilan tanishish uchun tayyorlangan
 🛠 Yordam yoki takliflar uchun bemalol bog‘laning!
