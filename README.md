@@ -19,21 +19,17 @@ Ushbu loyiha Oqimli  shefirlash algortimlari (RC4 va A5/1) algoritmlaridan foyda
 Quyidagi buyruq orqali barcha kerakli kutubxonalarni o‘rnating:
 
 ```bash
-pip install pandas openpyxl
+    uv add pandas openpyxl
 ```
 
 Yoki `pyproject.toml` fayli asosida:
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
 ## ⚙️ Foydalanish
 
 ```bash
-python main.py
+    python main.py
 ```
 
 So‘ng sizdan algoritm tanlash so‘raladi:
