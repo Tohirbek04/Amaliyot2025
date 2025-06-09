@@ -36,6 +36,7 @@ So‘ng sizdan algoritm tanlash so‘raladi:
 
 ```text
 Algoritmni turini tanlang 
+    0. Chiqish
     1. RC4
     2. A5/1
 ```

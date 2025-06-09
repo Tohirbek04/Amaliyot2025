@@ -43,6 +43,7 @@ if __name__ == "__main__":
         algorithm_selection = input(
 """
 Algoritmni turini tanlang 
+    0. Chiqish
     1. RC4
     2. A5/1
     >>> """)
@@ -51,12 +52,15 @@ Algoritmni turini tanlang
             text = input("Matn kiriting: ")
             key = input("Kalit kiriting (kamida 8 ta belgili): ")
             print(rc4_run(text, key))
-
+            main()
 
         elif algorithm_selection == "2":
             text = input("Matn kiriting: ")
             key = input("Kalit kiriting (kamida 8 ta belgili): ")
             print(a5_1_run(text, key))
+            main()
+        elif algorithm_selection == "0":
+            print("Dasturdan chiqildi")
         else:
             print("Noto'g'ri tanlov")
             return main()
